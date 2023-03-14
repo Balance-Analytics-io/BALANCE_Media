@@ -21,7 +21,6 @@ series: false
 
 The overall current landscape for this week:
 
-{% img src="stake_v_leverage_2023_03_06.png" alt="Shows old stake pool vs leverage landscape" %}
 
 
 This week in the stake pool landscape changes, WAV pools changed from 100% margin fee to 8%, and had some more restructuring.
@@ -34,7 +33,6 @@ The MAV remains around 20
 
 ### K-Effective
 
-{% img src="imagesk_effective_chart_2023_03_06.png" alt="Shows old stake pool MAV" %}
 
 K-Effective has flat lined. It is given by equations:
 
@@ -59,7 +57,6 @@ See our feed live [BALNC Pool.pm](https://pool.pm/a43ceac028a673e9f8611de0f683c7
 **DEV UPDATE SPECIAL**
 Last but not least, see how the new Sveltkit & D3 dataviz is coming along.
 
-{% img src="stake_pool_scatter_dev1.gif" alt="Shows new stake pool landscape dev in svelte giv animation" %}
 
 ### Community updates
 
