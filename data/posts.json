@@ -1,1 +1,51 @@
-temp
+[
+  {
+    "views": 5219,
+    "title": "Animation With Svelte",
+    "description": "Master animation with Svelte from regular and custom transitions to using other animation libraries.",
+    "slug": "animation-with-svelte",
+    "published": "2022-9-22",
+    "category": "svelte",
+    "series": false
+  },
+  {
+    "views": 1217,
+    "title": "How Code Sandboxes Update Content",
+    "description": "How do code sandboxes update the iframe without causing flashing?",
+    "slug": "avoid-flashing-iframe",
+    "published": "2021-9-29",
+    "category": "javascript"
+  },
+  {
+    "views": 763,
+    "title": "Clean Git History Using Rebase",
+    "description": "How to have a clean Git history using rebase.",
+    "slug": "clean-git-history",
+    "published": "2021-6-7",
+    "category": "git"
+  },
+  {
+    "views": 7312,
+    "title": "Create a JavaScript Code Sandbox",
+    "description": "Create a JavaScript code sandbox using Vite and TypeScript.",
+    "slug": "create-a-coding-sandbox",
+    "published": "2021-9-15",
+    "category": "typescript"
+  },
+  {
+    "views": 12,
+    "title": "Balance Analytics Test Newsletter #1",
+    "description": "Balance Analytics CCG Test Newsletter #1 - Hello World Test",
+    "slug": "2023_03_06_balance-ccg-dev-test-newsletter-rev1",
+    "published": "2023-03-06",
+    "category": "typescript"
+  },
+  {
+    "views": 12,
+    "title": "Nick's Test Newsletter #1",
+    "description": "Nick's Test Newsletter #1",
+    "slug": "nick-test",
+    "published": "2023-03-13",
+    "category": "typescript"
+  }
+]
