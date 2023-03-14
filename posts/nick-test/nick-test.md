@@ -1,7 +1,7 @@
 ---
 title: Balance Analytics Newsletter March 06, 2023
 description: Balance Analytics Newsletter March 2023 Hello World
-slug: 2023_03_06_balance-ccg-dev-test-newsletter-rev1
+slug: nick-test
 published: 2023-3-06
 category: newsletter
 series: false
