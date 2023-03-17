@@ -1,43 +1,16 @@
 [
   {
-    "views": 5219,
-    "title": "Animation With Svelte",
-    "description": "Master animation with Svelte from regular and custom transitions to using other animation libraries.",
-    "slug": "animation-with-svelte",
-    "published": "2022-9-22",
-    "category": "svelte",
-    "series": false
-  },
-  {
-    "views": 1217,
-    "title": "How Code Sandboxes Update Content",
-    "description": "How do code sandboxes update the iframe without causing flashing?",
-    "slug": "avoid-flashing-iframe",
-    "published": "2021-9-29",
-    "category": "javascript"
-  },
-  {
-    "views": 763,
-    "title": "Clean Git History Using Rebase",
-    "description": "How to have a clean Git history using rebase.",
-    "slug": "clean-git-history",
-    "published": "2021-6-7",
-    "category": "git"
-  },
-  {
-    "views": 7312,
-    "title": "Create a JavaScript Code Sandbox",
-    "description": "Create a JavaScript code sandbox using Vite and TypeScript.",
-    "slug": "create-a-coding-sandbox",
-    "published": "2021-9-15",
+    "title": "Balance Newsletter March 17, 2023",
+    "description": "100 Block Milestone, 25 New Pools Created by SWIM",
+    "slug": "2023_03_17_balance-newsletter",
+    "published": "2023-03-17",
     "category": "typescript"
   },
   {
-    "views": 12,
-    "title": "Balance Analytics Test Newsletter #1",
-    "description": "Balance Analytics CCG Test Newsletter #1 - Hello World Test",
-    "slug": "2023_03_06_balance-ccg-dev-test-newsletter-rev1",
-    "published": "2023-03-06",
+    "title": "Balance Newsletter March 24, 2023",
+    "description": "test test test",
+    "slug": "2023_03_24_balance-newsletter",
+    "published": "2023-03-24",
     "category": "typescript"
   }
 ]
