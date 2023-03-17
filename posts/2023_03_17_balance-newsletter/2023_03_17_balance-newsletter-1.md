@@ -1,19 +1,18 @@
 ---
-title: Balance Analytics Newsletter March 06, 2023
-description: Balance Analytics Newsletter March 2023 Hello World
-slug: 2023_03_06_balance-ccg-dev-test-newsletter-rev1
-published: 2023-3-06
+title: Balance Newsletter March 17, 2023
+description: 100 Block Milestone, 25 New Pools Created by SWIM
+slug: 2023_03_17_balance-newsletter-1
+published: 2023-3-17
 category: newsletter
 series: false
 ---
 
-# Newsletter March Week #1 2023
+# Balance Newsletter March 17, 2023
 
 **Highlights**
-- x increase in stake
-- EVE pool movement
-- Significant exchange pool changes
-- BALNC Pool new matrix group discussion
+- 100 Block Milestone!
+- 25 new pools by SWIM
+- New Dynamic Peer-to-Peer released to cardano-node 1.35.6
 
 ## Table of Contents
 
