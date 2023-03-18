@@ -1,13 +1,13 @@
 ---
-title: Balance Newsletter March 17, 2023
-description: 100 Block Milestone, 25 New Pools Created by SWIM
-slug: 2023_03_17_balance-newsletter
-published: 2023-3-17
+title: Balance Newsletter March 2023 Week X
+description: template ready to go for first newsletter
+slug: 2023_03_week_x_balance-newsletter
+published: 2023-3-XX
 category: newsletter
 series: false
 ---
 
-# Balance Newsletter March 17, 2023
+# Balance Newsletter March 2023 Week X
 
 **Highlights**
 - 100 Block Milestone!
