@@ -124,4 +124,4 @@ There are many untapped ideas since BALANCE has the entire db-sync blockchain (n
 {% img src="d3_example_pools2.png" alt="d3 future idea pool group bubble example 2" %}
 __Figure: Test heading italics__
 
-{% youtube id="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" $}
+{% youtube id="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
