@@ -44,7 +44,7 @@ The real reason to renovate and clean house on the old website was to tackle the
 
 We explored different open source frameworks and libraries that would position us to have the best chart experience, quality, and future proof advantage.
 
-Ultimately, after an extensive trade study was performed exploring the solution space, the design decision was made to pursue a _*Sveltekit Web-app with D3.js Charts combo*_.
+Ultimately, after an extensive trade study was performed exploring the solution space, the design decision was made to pursue a __*Sveltekit Web-app with D3.js Charts combo*__.
 
 Though this design decision carried significant work and schedule impacts, and a difficult and uncertain path, the fundamental quality and performance under the hood was the driving factor to create a product that will last for years to come. 
 
