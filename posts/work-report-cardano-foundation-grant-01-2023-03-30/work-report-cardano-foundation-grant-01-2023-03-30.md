@@ -125,3 +125,13 @@ There are many untapped ideas since BALANCE has the entire db-sync blockchain (n
 __Figure: Test heading italics__
 
 {% youtube id="bnd64ZrHC0U" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
+
+test
+
+{% embed src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
+
+test
+
+{% video src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" %}
+
+test
