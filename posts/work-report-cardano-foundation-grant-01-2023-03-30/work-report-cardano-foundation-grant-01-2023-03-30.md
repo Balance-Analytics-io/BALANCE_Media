@@ -95,7 +95,6 @@ In layman’s terms, D3 is a robust and mature Javascript visualization library 
 
 It should be clear by now BALANCE is going for timeless work and the learning curve investment is worth our time for quality.
 
-----
 ### Website Email Newsletter Subscription and Articles
 Aside from awesome charts, we want analysis to go into the Community's hands. Therefore we are starting up an email newsletter integrated into the website using [Buttondown.email](https://buttondown.email/).
 
