@@ -18,6 +18,8 @@ series: false
 ## Table of Contents
 
 ------------
+## Message
+
 The Cardano Foundation (CF) Delegation Grant is a huge sign of appreciation and support of BALANCE’s core mission and work, namely decentralization metrics and pool group tracking for Cardano insights.  The CF Grant and support from the greater Cardano Community at large has really validated that our work and passion at BALANCE is valuable. The Grant has sparked and reinvigorated our focus and work. We now want to take our charts and analysis for Cardano to the next level!
 
 Therefore, this report captures our updates, work accomplished so far, and our roadmap planning look-ahead. Get ready!
