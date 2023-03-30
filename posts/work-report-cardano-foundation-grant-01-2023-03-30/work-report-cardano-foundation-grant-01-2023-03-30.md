@@ -158,17 +158,17 @@ So is this Sveltekit, D3, and curated dataviz analysis over hyped? Well, if you'
 Below is an example of a simple D3 pie chart that has a tooltip to explore each section:
 
 {% img src="d3_piechart_example.png" alt="d3 pie chart example" %}
-#### Source: https://observablehq.com/@d3/donut-chart
+_Source: https://observablehq.com/@d3/donut-chart_
 
 But that's basic. Here's another idea for displaying pool groups based on size and color. Getting better?
 
 {% img src="d3_examples_1.png" alt="d3 future idea pool bubble chart example" %}
-#### Source: https://observablehq.com/@d3/bubble-chart
+_Source: https://observablehq.com/@d3/bubble-chart_
 
 Here's an even better chart of potential pool grouping heirarchy, groups within groups (like an exchange group, analytics group, community service group of pools, etc). Would you be curious to see how the bubbles expand over time? What's the trend? Is the exchange pool group cell metastasizing?
 
 {% img src="d3_example_pools2.png" alt="d3 future idea pool group bubble example 2" %}
-#### Source: https://observablehq.com/@d3/pack
+_Source: https://observablehq.com/@d3/pack_
 
 Finally, for real dreamfuel, checkout Mattias Stahl, one of the creaters of Svelt, presenting some of his professional data visualization storytelling work! Look at how much distill information is presented in highly crisp charts.
 
