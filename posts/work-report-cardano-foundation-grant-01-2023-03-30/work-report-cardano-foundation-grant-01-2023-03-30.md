@@ -25,17 +25,20 @@ Therefore, this report captures our updates, work accomplished so far, and our r
 ## Updates
 
 ### New Website and Fast, Crisp Charts
+
 The BALANCE website and charts are being revamped for a fast and crisp big data experience!  On our old site, the Stake Vs Leverage Chart loading was so slow because there was so much big data to load. Also, the interactive experience was sluggish and laggy.  
 
 Not anymore! BALANCE has decided to totally revamp the website design to be fast, crisp, and look great.
 
 ### New Email Newsletter Subscription and Website Articles
+
 What good is analysis if it’s not in your hands? The BALANCE Website will now have an email newsletter subscription for our Cardano insights! The newsletter articles will link back to the website to our article library.
 
 ------------
 ## Work Accomplished
 
 ### New Bespoke Website & Application Development
+
 After months of hard work, BALANCE is proud to announce the eminent launch of our brand new bespoke website!
 
 The website will be complete with an email newsletter subscriptio, article library, and most importantly our curated chart boards.
