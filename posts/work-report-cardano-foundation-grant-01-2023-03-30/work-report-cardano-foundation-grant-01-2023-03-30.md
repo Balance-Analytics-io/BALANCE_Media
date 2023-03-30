@@ -118,17 +118,20 @@ As you can tell, the CF Grant Delegation has been put to hard work, and we hope 
 ## Roadmap
 So, with continued CF Grant support, how would BALANCE use it?
 
-Well, we have big plans.  If our CF Grant support stays for the next delegation round, as well as the support from our loyal delegators, the following will be the funded work in exchange.
+Well, we have big plans.  If our CF Grant support stays for the next delegation round, as well as the support from our loyal delegators, the following will be the funded work in exchange:
 
-**Phase II: Website & Community Building**
-By creating and delivering on our public services, we hope to exchange value-for-value and gain BALNC stake pool delegators to sustain our work and mission.
+### Phase II: Website & Community Building
+By creating and delivering on our public intelligence services, we hope to exchange value-for-value and gain BALNC stake pool delegators to sustain our work and mission.
 
-Continued Website Building
-Currently the website is our Minimal Viable Product.
+**Continued Website Building**
 
-More Highly Curated Charts
+Currently the website is our Minimal Viable Product. We already have Phase II improvements tagged and are still learning what's possible in Sveltkit website development. This is only the beginning.
 
-Building an Intelligence Community in the Matrix
+**More Charts**
+
+We have a ton more ideas for insightful and highly curated charts on not only the stake pool grouping and landscape realm, but also anything curious on-chain regarding network health, wallets and rewards.
+
+**Building an Intelligence Community in the Matrix**
 
 More Analysis for Newsletter Content
 SQL Script development and standardization, metrics, stake pool pledge changes, pool stake in-flows and out-flows, decentralization and network health metrics.
