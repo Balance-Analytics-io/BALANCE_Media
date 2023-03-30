@@ -21,6 +21,7 @@ The Cardano Foundation (CF) Delegation Grant is a huge sign of appreciation and 
 
 Therefore, this report captures our updates, work accomplished so far, and our roadmap planning look-ahead. Get ready!
 
+------------
 ## Updates
 
 ### New Website and Fast, Crisp Charts
@@ -35,11 +36,15 @@ What good is analysis if it’s not in your hands? The BALANCE Website will now 
 ## Work Accomplished
 
 ### New Bespoke Website & Application Development
-After months of hard work, BALANCE is proud to announce the eminent launch of our brand new bespoke website, complete with an email newsletter subscription and article library space.
+After months of hard work, BALANCE is proud to announce the eminent launch of our brand new bespoke website!
 
-The real reason to renovate and clean house on the old website was to tackle the problem of how to create beautiful charts and analysis that is *also* a great user experience of being fast, responsive, and crisp. We explored what framework and libraries gave us the best future proof advantage for quality work and design control given the above ethos.
+The website will be complete with an email newsletter subscriptio, article library, and most importantly our curated chart boards.
 
-Ultimately, after an extensive trade study was performed exploring the solution space, the design decision was made to pursue a Sveltekit Web-app with D3.js Charts combo.
+The real reason to renovate and clean house on the old website was to tackle the problem of how to create beautiful charts and analysis that are *also* a great user experience of being fast, responsive, crisp, and exploratory. 
+
+We explored different open source frameworks and libraries that would position us to have the best chart experience, quality, and future proof advantage.
+
+Ultimately, after an extensive trade study was performed exploring the solution space, the design decision was made to pursue a _*Sveltekit Web-app with D3.js Charts combo*_.
 
 Though this design decision carried significant work and schedule impacts, and a difficult and uncertain path, the fundamental quality and performance under the hood was the driving factor to create a product that will last for years to come. 
 
@@ -120,6 +125,8 @@ Phase III+: Business Development & Growth
 Once the BALNC pool grows and the BALANCE website content and brand matures, BALANCE’s ultimate goal is to expand into the Data-as-a-Service business model.  
 
 There are many untapped ideas since BALANCE has the entire db-sync blockchain (not just an index), and a unique set of skills. One possible avenue could be to provide on-chain data to wallets or charts, or any project that needs it. We may also explore Delegation-as-a-Service where the high end intelligence value is only provided to the stake pool delegators.  We could also create tutorials or educational courses for small group education or pool delegates.  This may attract others who wish to learn and build a learning and teaching culture within the pool’s Matrix Space.
+
+### What's Possible? An Overview
 
 {% img src="d3_piechart_example.png" alt="d3 pie chart example" %}
 
