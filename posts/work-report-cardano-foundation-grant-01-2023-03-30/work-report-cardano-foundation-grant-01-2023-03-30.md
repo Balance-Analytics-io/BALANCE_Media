@@ -158,7 +158,7 @@ So is this Sveltekit, D3, and curated dataviz analysis over hyped? Well, if you'
 Below is an example of a simple D3 pie chart that has a tooltip to explore each section:
 
 {% img src="d3_piechart_example.png" alt="d3 pie chart example" %}
-_Source: https://observablehq.com/@d3/donut-chart_ <br>
+_Source: https://observablehq.com/@d3/donut-chart_ <br><br>
 
 But that's basic. Here's another idea for displaying pool groups based on size and color. Getting better?
 
