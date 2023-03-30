@@ -44,15 +44,17 @@ The real reason to renovate and clean house on the old website was to tackle the
 
 We explored different open source frameworks and libraries that would position us to have the best chart experience, quality, and future proof advantage.
 
-Ultimately, after an extensive trade study was performed exploring the solution space, the design decision was made to pursue a __**Sveltekit Web-app with D3.js Charts combo**__.
+Ultimately, after an extensive trade study was performed exploring the solution space, the design decision was made to pursue a **Sveltekit Web-App with D3.js Charts combo**.
 
-Though this design decision carried significant work and schedule impacts, and a difficult and uncertain path, the fundamental quality and performance under the hood was the driving factor to create a product that will last for years to come. 
+Though this design decision carried significant hard work, learning curve, and schedule impacts, the fundamental quality and performance under the hood was the driving decision factor to create a product that will last for years to come.
 
-The Cardano culture is no stranger to these difficult design decisions for principles.  This is akin to choosing Haskell for the cardano-node, but for us, a web application of the highest quality visualization experience and design curation.
+The Cardano culture is no stranger to these difficult design decisions based on principles and design ethos.  This is akin to choosing Haskell for the Cardano-Node.
+
+But alas! The hard work and up front design was worth it in our opinion. The visual appeal and crisp feel of the charts will have an amazing exploratory experience and valuable data insights. Here's a preview of our __Group Stake Vs Leverage Chart__:
 
 {% img src="cip50-stake-v-leverage-preview.png" alt="stake v leverage chart" %}
 
-Please explore and play with the __CIP-50 Charts__ on the website.
+Please explore and play with the [CIP-50 Charts](https://balance-web-app-prod.vercel.app/chartboards/cip50) for the full experience.
 
 ### Why Sveltekit for the Website & Application?
 
