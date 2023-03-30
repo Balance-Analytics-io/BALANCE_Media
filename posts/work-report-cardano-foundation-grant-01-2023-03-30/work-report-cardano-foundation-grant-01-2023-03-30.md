@@ -123,8 +123,7 @@ Well, we have big plans.  If our CF Grant support stays for the next delegation 
 ### Phase II: Website & Community Building
 By creating and delivering on our public intelligence services, we hope to exchange value-for-value and gain BALNC stake pool delegators to sustain our work and mission.
 
-**Continued Website Building**
-
+**Continued Website Building:**
 Currently the website is our Minimal Viable Product. We already have Phase II improvements tagged and are still learning what's possible in Sveltkit website development. This is only the beginning.
 
 **More Charts**
