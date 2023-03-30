@@ -31,7 +31,8 @@ Not anymore! BALANCE has decided to totally revamp the website design to be fast
 ### New Email Newsletter Subscription and Website Articles
 What good is analysis if it’s not in your hands? The BALANCE Website will now an email newsletter subscription for our Cardano insights! The newsletter articles will link back to the website, where our article library will reside.  The newsletter and article topics covered will be mainly stake pool groupings, landscape, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.
 
-## Work Accomplished
+# Work Accomplished
+Test to see how big figure heading1 is in body ***test***
 
 ### New Bespoke Website & Application Development
 After months of hard work, BALANCE is proud to announce the eminent launch of our brand new bespoke website, complete with an email newsletter subscription and article library space.
@@ -48,7 +49,7 @@ The Cardano culture is no stranger to these difficult design decisions for princ
 
 Please explore and play with the __CIP-50 Charts__ on the website.
 
-#### Why Sveltekit for the Website & Application?
+### Why Sveltekit for the Website & Application?
 
 {% img src="svelte_kit_homepage_screenshot.png" alt="svelte kit home page screenshot" %}
 
@@ -69,7 +70,7 @@ In layman’s terms again, Sveltekit is the tooling and framework that let’s y
 
 Sveltekit is a hot new language that is being adopted for good reason, but it is still young, has poor documentation at times, and has growing pains. So, the design decision to use Svelte was not the easy route, but we believe the right decision.
 
-#### Why D3.js Charts?
+### Why D3.js Charts?
 
 {% img src="d3js_homepage_screenshot.png" alt="d3js homepage screenshot" %}
 
@@ -115,6 +116,12 @@ Once the BALNC pool grows and the BALANCE website content and brand matures, BAL
 There are many untapped ideas since BALANCE has the entire db-sync blockchain (not just an index), and a unique set of skills. One possible avenue could be to provide on-chain data to wallets or charts, or any project that needs it. We may also explore Delegation-as-a-Service where the high end intelligence value is only provided to the stake pool delegators.  We could also create tutorials or educational courses for small group education or pool delegates.  This may attract others who wish to learn and build a learning and teaching culture within the pool’s Matrix Space.
 
 {% img src="d3_piechart_example.png" alt="d3 pie chart example" %}
+#### Figure: Test heading 4
+
 {% img src="d3_examples_1.png" alt="d3 future idea pool bubble chart example" %}
+**Figure: Test heading bold**
+
 {% img src="d3_example_pools2.png" alt="d3 future idea pool group bubble example 2" %}
-{% img src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> $}
+__Figure: Test heading italics__
+
+{% youtube id="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" $}
