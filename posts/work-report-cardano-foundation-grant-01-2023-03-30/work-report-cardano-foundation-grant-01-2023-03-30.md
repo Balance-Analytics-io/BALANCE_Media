@@ -60,28 +60,30 @@ Please explore and play with the [CIP-50 Charts](https://balance-web-app-prod.ve
 
 {% img src="svelte_kit_homepage_screenshot.png" alt="svelte kit home page screenshot" %}
 
-Basically, Sveltekit is a new framework and language that has the significant advantages of a fast, clean, and crisp user experience that far out-weighs its predecessor of React and Javascript. 
+Basically, **[Svelte](https://svelte.dev/)** is a new framework and language that has the significant advantages of a fast, clean, and crisp user experience that far out-weighs its predecessor of React and Javascript. 
 
 From the Svelte website: 
 
 > "Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app. Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes.” 
 
-In layman’s terms, running Svelte at build-time compiles your code into lightweight and super simple javascript code, thus the user gets a fast experience. The heavy lifting is done at compile time.
+In layman’s terms, running Svelte at build-time compiles your code into lightweight and super simple javascript code, thus the user gets a fast experience. The heavy lifting is done at compile time instead of on-demand in browser time.
 
-But what is Sveltekit? Well, from the Sveltekit Introduction:  
+**But what is Sveltekit? Above was about Svelte**
+
+Very observant, glad you asked. From the **[Sveltekit](https://kit.svelte.dev/)** Introduction:  
 
 > “SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte.” 
 “Svelte renders UI components. You can compose these components and render an entire page with just Svelte, but you need more than just Svelte to write an entire app.  SvelteKit provides basic functionality like a router — which updates the UI when a link is clicked — and server-side rendering (SSR).”
 
-In layman’s terms again, Sveltekit is the tooling and framework that let’s you build a web app using Svelte (and other stuff), including the server-client side fetch and push interactions, shared memory, and full stack capabilities.
+In layman’s terms again, Sveltekit is the tooling and framework that lets you build a web app using Svelte (and other stuff), including the server-client side fetch and push interactions, shared memory, and full stack capabilities.
 
-Sveltekit is a hot new language that is being adopted for good reason, but it is still young, has poor documentation at times, and has growing pains. So, the design decision to use Svelte was not the easy route, but we believe the right decision.
+Sveltekit is a hot new language that is being adopted for good reason, but it is still very new, has poor documentation at times, and has early growing pains. So, the design decision to use Svelte was not the easy route, but we believe the right decision.
 
 ### Why D3.js Charts?
 
 {% img src="d3js_homepage_screenshot.png" alt="d3js homepage screenshot" %}
 
-Ultimately, to make serious, professional grade charts and curated data visualizations, we needed a robust and extensive library that is compatible with Sveltekit.  That ultimately lead us to D3.
+Ultimately, to make serious, professional grade charts and curated data visualizations, we needed a robust and extensive library that is compatible with Sveltekit.  That ultimately lead us to **[D3](https://d3js.org/)**.
 
 What is D3 you ask?  Well from the D3.js website:
 
