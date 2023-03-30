@@ -31,7 +31,7 @@ Not anymore! BALANCE has decided to totally revamp the website design to be fast
 ### New Email Newsletter Subscription and Website Articles
 What good is analysis if it’s not in your hands? The BALANCE Website will now an email newsletter subscription for our Cardano insights! The newsletter articles will link back to the website, where our article library will reside.  The newsletter and article topics covered will be mainly stake pool groupings, landscape, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.
 
-# Work Accomplished
+## Work Accomplished
 Test to see how big figure heading1 is in body ***test***
 
 ### New Bespoke Website & Application Development
@@ -124,14 +124,8 @@ There are many untapped ideas since BALANCE has the entire db-sync blockchain (n
 {% img src="d3_example_pools2.png" alt="d3 future idea pool group bubble example 2" %}
 __Figure: Test heading italics__
 
-{% youtube id="bnd64ZrHC0U?" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
-
-test above youtube below embed
-
 {% embed src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
+Cheers! 
 
-test above embed below video
-
-{% video src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" %}
-
-test above video
+Sincerely,
+- The BALANCE Team
