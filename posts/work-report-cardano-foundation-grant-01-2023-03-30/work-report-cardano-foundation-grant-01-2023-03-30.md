@@ -57,8 +57,7 @@ But alas! The hard work and up front design was worth it in our opinion. The vis
 Please explore and play with the [CIP-50 Charts](https://balance-web-app-prod.vercel.app/chartboards/cip50) for the full experience.
 
 ### Why Sveltekit for the Website & Application?
-\
-&nbsp;
+####
 {% img src="svelte_kit_homepage_screenshot.png" alt="svelte kit home page screenshot" %}
 
 Basically, [Svelte](https://svelte.dev/) is a new framework and language that has the significant advantages of a fast, clean, and crisp user experience that far out-weighs its predecessor of React and Javascript. 
