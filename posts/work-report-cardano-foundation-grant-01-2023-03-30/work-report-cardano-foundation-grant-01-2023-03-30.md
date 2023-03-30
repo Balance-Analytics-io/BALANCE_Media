@@ -124,7 +124,7 @@ Well, we have big plans.  If our CF Grant support stays for the next delegation 
 By creating and delivering on our public intelligence services, we hope to exchange value-for-value and gain BALNC stake pool delegators to sustain our work and mission.
 
 **Continued Website Building:**
-Currently the website is a Minimal Viable Product. We already have Phase II improvements tagged and are still learning what's possible in Sveltkit website development. This is only the beginning.
+Currently the website is a Minimal Viable Product. We already have Phase II improvements tagged and are still learning what's possible in Sveltkit website development. We still need to expand our Pool Specs page and quick page searching. This is only the beginning.
 
 **More Charts:**
 We have a ton more ideas for insightful and highly curated chart boards.  Topics include not only the stake pool grouping and landscape realm, but also anything curious on-chain regarding network health, wallets and rewards. There's so much potential and no shortage of ideas, the only problems will be focus and time.  We'll start with easy essential stuff, like Donut Charts and expand out.
@@ -134,13 +134,13 @@ We also want to curate an analysis and intelligence community hub, brand, and be
 
 We'll start with providing weekly pool landscape updates, tutorials, and monthly reports in our email newsletters and website articles. As our SQL scripting and db-sync library grows, so will the breadth and depth of our analysis. We'll gain a strong technical foothold and reporting operating rhythm. We'll start to standardize our metrics and provide reliable stake pool change updates weekly, and deeper dive on network analysis reports monthly.
 
-Aside from supporting Cardano network decentralization with the BALNC stake pool and high pledge, BALANCE is also one of the **first** Cardano Stake Pools to support communication decentralization too. 
+Aside from supporting Cardano network decentralization with the BALNC stake pool and high pledge, BALANCE is also one of the **first** (like first three) Cardano Stake Pools to support communication decentralization too. 
 
 BALANCE runs a self hosted [Synapse server](https://github.com/matrix-org/synapse) to support a [Matrix.org Space](https://matrix.org/).  Matrix.org describes itself as "an open network for secure, decentralized communication" and has an [amazing ecosystem and growing roadmap](https://matrix.org/blog/2023/02/09/finally-a-hybrid-conference-that-worked). Matrix Spaces are an end-to-end encrypted chat, like Signal Messaging App meets Discord meets home server networks.
 
 Imagine all Cardano Stake Pools hosting decentralized communication in parallel to running full peer-to-peer Cardano nodes. BALANCE is spear heading the comms front. Ask us for a BALANCE profile server_name and join our [BALANCE Matrix Space](https://matrix.to/#/#general:forum.balanceanalytics.io) (we recommend the Element App).
 
-From the newsletters and social media we'll encourage folks to join our Matrix Space for insightful discussions, questions, and chatting. We'll look to foster an decentralized analytics ecosystem, and provide early insight here, tutorials, help, and education.
+From the newsletters and social media we'll encourage folks to join our Matrix Space for insightful discussions, questions, and chatting. We'll look to foster a decentralized analytics ecosystem, provide early insight here, tutorials, help, and education.
 
 **New Social Media Presence:**
 Doing heads down work is our favorite thing to do, but we’ll be stepping out of our hole and increasing our social media presence shortly.  We'll look to inform the community with key intelligence daily, as well as receive open source tips to investigate.  This will not only strengthen our watchdog presence, but also provide more robust publicly available data and insights.
@@ -153,21 +153,24 @@ There are many untapped ideas since BALANCE has the entire db-sync blockchain on
 One possible avenue could be to provide on-chain data to wallets, curated charts, or any project that needs data. We may also explore Delegation-as-a-Service where the high end intelligence value is only provided to the stake pool delegators.  We could also create tutorials or educational courses for small group education or pool delegates.  This may attract others who wish to learn and build a learning and teaching culture within the pool’s Matrix Space.
 
 ### What's Possible? An Overview
-So is this Sveltekit, D3, and curated dataviz analysis over hyped? Well, if you'll indulge, here is what is possible:
+So is this Sveltekit, D3, and curated dataviz analysis over hyped? Well, if you'll indulge, here is what's possible:
 
-Here's an example of a simple D3 pie chart, that has a tooltip to explore each section:
+Below is an example of a simple D3 pie chart that has a tooltip to explore each section:
 
 {% img src="d3_piechart_example.png" alt="d3 pie chart example" %}
+#### Source: https://observablehq.com/@d3/donut-chart
 
 But that's basic. Here's another idea for displaying pool groups based on size and color. Getting better?
 
 {% img src="d3_examples_1.png" alt="d3 future idea pool bubble chart example" %}
+#### Source: https://observablehq.com/@d3/bubble-chart
 
-Here's an even better chart of potential pool grouping heirarchy, groups within groups (like an exchange group, analytics group, community service group of pools, etc.)
+Here's an even better chart of potential pool grouping heirarchy, groups within groups (like an exchange group, analytics group, community service group of pools, etc). Would you be curious to see how the bubbles expand over time? What's the trend? Is the exchange pool group cell metastasizing?
 
 {% img src="d3_example_pools2.png" alt="d3 future idea pool group bubble example 2" %}
+#### Source: https://observablehq.com/@d3/pack
 
-Finally, for real dreamfuel, checkout Mattias Stahl one of the creaters of Svelt presenting some of his professional data visualization storytelling work! Look at how much distill information is presented in highly crisp charts.
+Finally, for real dreamfuel, checkout Mattias Stahl, one of the creaters of Svelt, presenting some of his professional data visualization storytelling work! Look at how much distill information is presented in highly crisp charts.
 
 {% embed src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
 
