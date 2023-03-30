@@ -17,22 +17,22 @@ series: false
 
 ## Table of Contents
 
-The Cardano Foundation (CF) Delegation Grant is a huge sign of appreciation and support of BALANCE’s core mission and work, namely decentralization metrics and pool group tracking for Cardano insights.  The CF Grant and support from the greater Cardano Community at large has really validated that our work and passion at BALANCE is valuable. The Grant has sparked and reinvigorated our focus and work, and now we want to take our charts and analysis for Cardano to the next level.
+The Cardano Foundation (CF) Delegation Grant is a huge sign of appreciation and support of BALANCE’s core mission and work, namely decentralization metrics and pool group tracking for Cardano insights.  The CF Grant and support from the greater Cardano Community at large has really validated that our work and passion at BALANCE is valuable. The Grant has sparked and reinvigorated our focus and work. We now want to take our charts and analysis for Cardano to the next level!
 
-Therefore, this report captures our updates, work accomplished so far, and our roadmap planning. Get ready!
+Therefore, this report captures our updates, work accomplished so far, and our roadmap planning look-ahead. Get ready!
 
 ## Updates
 
 ### New Website and Fast, Crisp Charts
-The BALANCE website and chart are being revamped for a fast and crisp big data experience!  On our old site, the Stake Vs Leverage Chart loading was so slow because there was so much big data to load. Also, the interactive experience was sluggish and laggy.  
+The BALANCE website and charts are being revamped for a fast and crisp big data experience!  On our old site, the Stake Vs Leverage Chart loading was so slow because there was so much big data to load. Also, the interactive experience was sluggish and laggy.  
 
-Not anymore! BALANCE has decided to totally revamp the website design to be fast & crisp, and look great. More on this in the work accomplished section.
+Not anymore! BALANCE has decided to totally revamp the website design to be fast, crisp, and look great.
 
 ### New Email Newsletter Subscription and Website Articles
-What good is analysis if it’s not in your hands? The BALANCE Website will now an email newsletter subscription for our Cardano insights! The newsletter articles will link back to the website, where our article library will reside.  The newsletter and article topics covered will be mainly stake pool groupings, landscape, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.
+What good is analysis if it’s not in your hands? The BALANCE Website will now have an email newsletter subscription for our Cardano insights! The newsletter articles will link back to the website to our article library.
 
+------------
 ## Work Accomplished
-Test to see how big figure heading1 is in body ***test***
 
 ### New Bespoke Website & Application Development
 After months of hard work, BALANCE is proud to announce the eminent launch of our brand new bespoke website, complete with an email newsletter subscription and article library space.
@@ -84,11 +84,17 @@ In layman’s terms, D3 is a robust and mature javascript visualization library 
 
 It should be clear by now BALANCE is going for timeless work and the learning curve investment is worth the time for quality.
 
-### Listed on Cardano Developer Portal and Single Pool Alliance
+----
+### Website Email Newsletter Subscription and Articles
+
+The newsletter and article topics covered will be mainly stake pool groupings, landscape, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.
+
+### Listed on Cardano Developer Portal & Single Pool Alliance
 In addition to website building, in parallel we have branched out to get the BALNCE name out there and recognize. We have been successfully listed in the Cardano Developer Portal and the Cardano Single Pool Alliance. We’ve also update our website with an About Page on the Founder and Team.
 
 As you can tell, the CF Grant Delegation has been put to hard work, and we hope the results speak for itself from the CIP-50 Chart Board Web App experience. 
 
+-------------
 ## Roadmap
 So where is BALANCE going with continued Grant support?
 
@@ -116,7 +122,7 @@ Once the BALNC pool grows and the BALANCE website content and brand matures, BAL
 There are many untapped ideas since BALANCE has the entire db-sync blockchain (not just an index), and a unique set of skills. One possible avenue could be to provide on-chain data to wallets or charts, or any project that needs it. We may also explore Delegation-as-a-Service where the high end intelligence value is only provided to the stake pool delegators.  We could also create tutorials or educational courses for small group education or pool delegates.  This may attract others who wish to learn and build a learning and teaching culture within the pool’s Matrix Space.
 
 {% img src="d3_piechart_example.png" alt="d3 pie chart example" %}
-#### Figure: Test heading 4
+
 
 {% img src="d3_examples_1.png" alt="d3 future idea pool bubble chart example" %}
 **Figure: Test heading bold**
@@ -125,6 +131,7 @@ There are many untapped ideas since BALANCE has the entire db-sync blockchain (n
 __Figure: Test heading italics__
 
 {% embed src="https://www.youtube.com/embed/bnd64ZrHC0U?start=1113" title="Svelte and D3 - Matthias Stahl @ Svelte Society Stockholm" %}
+
 Cheers! 
 
 Sincerely,
