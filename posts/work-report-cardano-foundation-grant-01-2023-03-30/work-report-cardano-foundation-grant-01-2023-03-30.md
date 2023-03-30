@@ -83,9 +83,11 @@ Sveltekit is a hot new language that is being adopted for good reason, but it is
 
 {% img src="d3js_homepage_screenshot.png" alt="d3js homepage screenshot" %}
 
-Ultimately, to make serious, professional grade charts and curated data visualizations, we needed a robust and extensive library that is compatible with Sveltekit.  That ultimately lead us to **[D3](https://d3js.org/)**.
+Ultimately, to make serious, professional grade charts and curated data visualizations, we needed a robust and extensive library that is compatible with Sveltekit.  That ultimately lead us to [D3](https://d3js.org/).
 
-What is D3 you ask?  Well from the D3.js website:
+**What is D3 you ask?**
+
+Well, from the D3.js website:
 
 >“D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.”
 
