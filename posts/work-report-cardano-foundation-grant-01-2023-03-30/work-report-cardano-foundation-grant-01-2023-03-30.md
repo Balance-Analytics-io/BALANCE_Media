@@ -60,7 +60,7 @@ Please explore and play with the [CIP-50 Charts](https://balance-web-app-prod.ve
 
 {% img src="svelte_kit_homepage_screenshot.png" alt="svelte kit home page screenshot" %}
 
-Basically, **[Svelte](https://svelte.dev/)** is a new framework and language that has the significant advantages of a fast, clean, and crisp user experience that far out-weighs its predecessor of React and Javascript. 
+Basically, [Svelte](https://svelte.dev/) is a new framework and language that has the significant advantages of a fast, clean, and crisp user experience that far out-weighs its predecessor of React and Javascript. 
 
 From the Svelte website: 
 
@@ -70,7 +70,7 @@ In layman’s terms, running Svelte at build-time compiles your code into lightw
 
 **But what is Sveltekit? Above was about Svelte**
 
-Very observant, glad you asked. From the **[Sveltekit](https://kit.svelte.dev/)** Introduction:  
+Very observant, glad you asked. From the [Sveltekit](https://kit.svelte.dev/) Introduction:  
 
 > “SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte.” 
 “Svelte renders UI components. You can compose these components and render an entire page with just Svelte, but you need more than just Svelte to write an entire app.  SvelteKit provides basic functionality like a router — which updates the UI when a link is clicked — and server-side rendering (SSR).”
@@ -91,17 +91,26 @@ Well, from the D3.js website:
 
 >“D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.”
 
-In layman’s terms, D3 is a robust and mature javascript visualization library used by the pros, with the trade off of complexity for additional control and artistic work.  After browsing what is possible from the very creators of Sveltekit showcasing their data visualization story telling, it is very impressive and BALANCE was sold.
+In layman’s terms, D3 is a robust and mature Javascript visualization library used by the dataviz pros, with the trade off of complexity for additional control and artistic work.  After browsing what is possible from the very creators of Sveltekit showcasing their data visualization story telling, it is _*very impressive*_ and BALANCE was sold.
 
-It should be clear by now BALANCE is going for timeless work and the learning curve investment is worth the time for quality.
+It should be clear by now BALANCE is going for timeless work and the learning curve investment is worth our time for quality.
 
 ----
 ### Website Email Newsletter Subscription and Articles
+Aside from awesome charts, we want analysis to go into the Community's hands. Therefore we are starting up an email newsletter integrated into the website using [Buttondown.email](https://buttondown.email/).
 
-The newsletter and article topics covered will be mainly stake pool groupings, landscape, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.
+We are sold on _Buttondown_ after reviewing the market because it's a grassroots grown project build by a talented Found Justin, who maintains it.  The service was built for customization control, integration, and low overhead.  It's a great fit and allows easy workflow with the website articles written in Markdown to be used for emails as well.
+
+The newsletter and article topics covered will be mainly stake pool groupings, pool landscape changes, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.  We are looking to provide pool update articles weekly, and big picture deep dive Cardano reports monthly.  
+
+We will be highly utilizing SQL and db-sync to support our on-chain data analysis, which should yield amazing insights as we grow our analysis footholds.
 
 ### Listed on Cardano Developer Portal & Single Pool Alliance
-In addition to website building, in parallel we have branched out to get the BALNCE name out there and recognize. We have been successfully listed in the Cardano Developer Portal and the Cardano Single Pool Alliance. We’ve also update our website with an About Page on the Founder and Team.
+In addition to website building, in parallel we have socialized to get the BALNCE name out there and recognize. 
+
+We have been successfully listed in the [Cardano Developer Portal](https://developers.cardano.org/showcase?tags=analytics) and the [Cardano Single Pool Alliance](https://singlepoolalliance.net/). 
+
+We’ve also update our website with an About Page on the Founder and Team. Once our initial website building is ready for public release, we'll be more active on social medias too.
 
 As you can tell, the CF Grant Delegation has been put to hard work, and we hope the results speak for itself from the CIP-50 Chart Board Web App experience. 
 
