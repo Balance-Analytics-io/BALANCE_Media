@@ -99,28 +99,28 @@ It should be clear by now BALANCE is going for timeless work and the learning cu
 ### Website Email Newsletter Subscription and Articles
 Aside from awesome charts, we want analysis to go into the Community's hands. Therefore we are starting up an email newsletter integrated into the website using [Buttondown.email](https://buttondown.email/).
 
-We are sold on _Buttondown_ after reviewing the market because it's a grassroots grown project build by a talented Found Justin, who maintains it.  The service was built for customization control, integration, and low overhead.  It's a great fit and allows easy workflow with the website articles written in Markdown to be used for emails as well.
+We are sold on _Buttondown_ after reviewing the market because it's a grassroots grown project built by a talented founder Justin who maintains it.  The service was built for customization control, integration, low overhead, and simply send email very well.  It's a great fit and allows easy workflow with the website articles written in Markdown to be used for emails as well.
 
 The newsletter and article topics covered will be mainly stake pool groupings, pool landscape changes, and BALNC pool updates. Cardano blockchain intelligence will come right to your inbox and be available to read in bulk on the website.  We are looking to provide pool update articles weekly, and big picture deep dive Cardano reports monthly.  
 
-We will be highly utilizing SQL and db-sync to support our on-chain data analysis, which should yield amazing insights as we grow our analysis footholds.
+We will be utilizing heavily SQL and db-sync to support our on-chain data analysis, which should yield amazing insights as we grow our analysis footholds.
 
 ### Listed on Cardano Developer Portal & Single Pool Alliance
-In addition to website building, in parallel we have socialized to get the BALNCE name out there and recognize. 
+In addition to website development heads down in the trenches, in parallel we have socialized a bit to get the BALNCE name out there and recognized.
 
 We have been successfully listed in the [Cardano Developer Portal](https://developers.cardano.org/showcase?tags=analytics) and the [Cardano Single Pool Alliance](https://singlepoolalliance.net/). 
 
 We’ve also update our website with an About Page on the Founder and Team. Once our initial website building is ready for public release, we'll be more active on social medias too.
 
-As you can tell, the CF Grant Delegation has been put to hard work, and we hope the results speak for itself from the CIP-50 Chart Board Web App experience. 
+As you can tell, the CF Grant Delegation has been put to hard work, and we hope the results speak for itself from the CIP-50 Chart Board, Web App experience, and Newsletter service.
 
 -------------
 ## Roadmap
-So where is BALANCE going with continued Grant support?
+So, with continued CF Grant support, how would BALANCE use it?
 
-Well, we have big plans.  If our CF Grant support stays for the next delegation round, and also the support from our loyal delegators, the following will be the funded work in exchange.
+Well, we have big plans.  If our CF Grant support stays for the next delegation round, as well as the support from our loyal delegators, the following will be the funded work in exchange.
 
-Phase II: Website & Community Building
+**Phase II: Website & Community Building**
 By creating and delivering on our public services, we hope to exchange value-for-value and gain BALNC stake pool delegators to sustain our work and mission.
 
 Continued Website Building
