@@ -1,6 +1,6 @@
 ---
 title: Announcing Launch of New Website & Charts!
-description: Fast Beautiful DataViz Charts and Newsletter Service
+description: Fast Beautiful DataViz Charts and Newsletter Service Built on SvelteKit
 slug: announcement-new-website-2023-3-31
 published: 2023-3-31
 category: announcements
@@ -32,3 +32,4 @@ Topics to cover
 - FAQ expanding boxes
 - About Page
 - ready for more!
+
