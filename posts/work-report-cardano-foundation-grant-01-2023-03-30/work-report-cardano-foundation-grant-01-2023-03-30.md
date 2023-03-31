@@ -3,7 +3,7 @@ title: Cardano Foundation Grant Work Report
 description: A work report covering the progress and accomplishments the BALNC Pool Cardano Foundation Delegation Grant
 slug: work-report-cardano-foundation-grant-01-2023-03-30
 published: 2023-3-30
-category: Work Reports
+category: Business Development
 series: false
 ---
 
