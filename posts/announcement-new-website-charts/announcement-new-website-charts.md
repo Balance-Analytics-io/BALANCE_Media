@@ -1,5 +1,5 @@
 ---
-title: Announcing Launch of New Website & Charts
+title: Announcing Launch of New Website & Charts!
 description: Fast Beautiful DataViz Charts and Newsletter Service Built on SvelteKit
 slug: announcement-new-website-charts
 published: 2023-3-31
