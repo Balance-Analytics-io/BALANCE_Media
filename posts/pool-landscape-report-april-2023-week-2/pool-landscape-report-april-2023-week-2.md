@@ -3,7 +3,7 @@ title: Pool Landscape Report - April 2023 Week 2
 description: Cardano Stake Pool Landscape Update Report on Group Edits and Events
 slug: pool-landscape-report-april-2023-week-2
 published: 2023-4-16
-category: pool-landscape
+category: pool_landscape
 series: true
 ---
 
