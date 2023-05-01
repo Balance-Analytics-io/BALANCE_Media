@@ -212,18 +212,6 @@ BALNCE Pool has surpassed _200 Blocks!_ A new personal record, and many more to 
 
 {% img src="BALNC_over_200_blocks.png" alt="BALNC_pool_now_over_200_blocks" %}
 
-
-
-
-
-
-
-
-
-
-
-
-
 Cheers,
 
 The BALANCE Team
