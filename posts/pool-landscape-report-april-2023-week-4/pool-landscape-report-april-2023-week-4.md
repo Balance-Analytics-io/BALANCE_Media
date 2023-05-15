@@ -14,7 +14,7 @@ series: true
 ------------
 
 ## Pool Landscape Updates
-**(4/16/23 Epoch 406 -> 4/30/23 Epoch 409)**
+**(4/16/23 Epoch 406 -> 4/30/23 Epoch 409)**<br><br>
 
 **Single ITN Pools are spooling down, and multiple ISPO and Exchange pools are spooling up.**
 
