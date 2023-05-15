@@ -15,7 +15,7 @@ series: true
 
 ## Pool Landscape Updates
 
-**(4/30/23 Epoch 409 -> 5/15/23 Epoch 411)**
+**(4/30/23 Epoch 409 -> 5/15/23 Epoch 411)**<br><br>
 **More New Multi-Pools, Big Binance Stake Drop, NEW GIRL Gone?, Staked Ada Dropping**
 
 Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed.
