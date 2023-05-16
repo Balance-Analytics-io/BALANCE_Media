@@ -25,7 +25,7 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 Since the last report (April 30th), fifteen (15) new pools have been created.
 
 - Over 50% of the new pools created (this round) are part of Multi-Pool Operations (MPOs).
-  - WAVE added 1 new pool(s).
+  - WAVE added 1 new pool.
   - KID added 2 new pools.
   - MS added 1 new pool.
   - BD added 1 new pool.
