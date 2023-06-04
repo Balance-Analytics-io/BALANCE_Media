@@ -105,7 +105,7 @@ Stake Pools and Ada Staking Rewards play a crucial role in the monetary policy, 
 
 The Reward Sharing Scheme (RSS) Staking Equation holds immense importance in terms of game theory incentives for long-term decentralization and, consequently, the compelled classification of Ada as a commodity by the SEC.
 
-[AdaState.net](https://adastat.net/) did a great job of tracking the poll live and providing results in a exportable .csv format. [You can see it here.](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
+[AdaStat.net](https://adastat.net/) did a great job of tracking the poll live and providing results in a exportable .csv format. [You can see it here.](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
 
 The Cardano Foundation (CF) deserves credit for effectively hosting this poll, conducting meetings with SPOs, responding to questions, and being accessible on Telegram Channels (special thanks to Markus) as well as the Forum.
 
@@ -178,7 +178,7 @@ No longer is there a low ROS excuse to not delegate with us. Aside from the BALA
 
 Sidenote: Have you noticed that with the drop in Binance Stake and overall Staked Ada decreasing from 70% to 60%, it has resulted in more blocks won for your pool?
 
-If you think about it, despite having the same number of pools, there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block-effectively causing a difficulty drop (using Bitcoin mining terms).
+If you think about it, despite having the same number of pools, there is now less Staked Ada and thus a better opportunity/probability to mint a block. Thus, it becomes easier for small single pools to mint a block - effectively a "difficulty adjustment" (using Bitcoin mining terms).
 
 ### Call to Action: Audit our Pool Group API and Join our Matrix Group Edits Chat
 We would like to call for an audit of our Public Pool Group API and invite you to let us know if there are any mistakes. All suggestions are welcomed.
@@ -192,3 +192,5 @@ Join us in the Group Edits Chat Room in our Matrix Balance Space! Become an On-C
 Cheers,
 
 - The BALANCE Team
+
+_Updates: 1) Was "Adastate.net" is now "Adastat.net", corrected typo. 2) Was "...there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block-effectively causing a difficulty drop (using Bitcoin mining terms)." is now "...there is now less Staked Ada and thus a better opportunity/probability to mint a block. Thus, it becomes easier for small single pools to mint a block - effectively a "difficulty adjustment" (using Bitcoin mining terms).". Updated for correctness and clarification. Thank you [Homer J of AAA pool.](https://twitter.com/KpunToN00b)_ 
